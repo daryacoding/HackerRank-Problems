@@ -14,5 +14,5 @@
         maxSum += arr[i];
     }
     console.log(minSum + " " + maxSum)
-}
-    ```
+    }
+```
